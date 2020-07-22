@@ -53,7 +53,7 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'git@github.com:jobiols/cl-epso.git',
+        'https://github.com/jobiols/cl-epso.git',
 
         'https://github.com/jobiols/odoo-addons.git',
 
